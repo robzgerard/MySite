@@ -1,0 +1,146 @@
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: verdana, sans-serif;
+}
+h1 {
+  margin-top: 65px;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+h2 {
+font-family: 'Gloria Hallelujah', cursive;
+font-size: 3.5rem;
+color: #66BFBF;
+font-weight: normal;
+padding-bottom: 10px;
+}
+h3 {
+font-family: 'Gloria Hallelujah', cursive;
+color: #11999E;
+}
+p {
+  line-height: 5;
+}
+hr {
+  margin: 100px auto;
+  border: dotted black 6px;
+  border-bottom: none;
+  width: 4%;
+}
+a {
+  margin: 10px 20px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+a:hover {
+  color: lime;
+}
+.rob {
+  border-radius: 70%;
+}
+.top-container {
+  background-color: #145374;
+  position: relative;
+  padding-top: 100px
+}
+.middle-container {
+  margin: 100px 0;
+}
+.bottom-container {
+  background-color: #145374;
+  padding: 50px 0 20px;
+}
+.intro {
+  margin: auto;
+  width: 30%
+
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.top-html {
+  height: 100px;
+  position: absolute;
+  right: 400px;
+  top: 394px;
+}
+.bottom-css {
+  height: 100px;
+  position: absolute;
+  left: 400px
+}
+.bottom-js {
+  height: 100px;
+  position: absolute;
+  right: 350px;
+  bottom: 255px;
+}
+.bottom-c {
+  height: 100px;
+  position: absolute;
+  left: 350px;
+  bottom: 250px;
+}
+.code {
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.forex {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+  background-color: black;
+  border-radius: 50%;
+}
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+.contact-message {
+  margin: 40px auto 60px;
+  width: 40%
+}
+.botton {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:32px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	font-weight:bold;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.botton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.botton:active {
+	position:relative;
+	top:1px;
+}
+.copyright {
+  color: white;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
